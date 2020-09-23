@@ -9,7 +9,7 @@
 Download and save to /usr/bin
 ```
 git clone https://github.com/Storidge/cio-report 
-cp cio-report /usr/bin
+cp cio-report/cio-report /usr/bin
 ```
 
 ### Run 
